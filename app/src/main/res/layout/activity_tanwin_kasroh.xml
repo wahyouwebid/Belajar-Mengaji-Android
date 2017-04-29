@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg4">
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fillViewport="false"
+        android:fadingEdge="none"
+        android:scrollbars="none"
+        android:scrollbarSize="0dp"
+        android:paddingRight="0dp"
+        android:scrollbarAlwaysDrawVerticalTrack="false"
+        android:scrollbarStyle="insideOverlay"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_yin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_yin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_hiin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_hiin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_win"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_win"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_nin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_nin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_min"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_min"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_lin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_lin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_kin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_kin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_qin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_qin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_fin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_fin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_gin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_gin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_ain"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_ain"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_zhin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_zhin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_thin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_thin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_dhin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_dhin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_shin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_shin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_syin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_syin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_sin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_sin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_zin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_zin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_rin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_rin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_dzin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_dzin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_din"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_din"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_khin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_khin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_hin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_hin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_jin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_jin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"  />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_tsin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_tsin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_tin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_tin"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_bin"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_bin"
+                android:clickable="true"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/kasrohtain_in"
+                android:clickable="true"
+                android:layout_gravity="center"
+                android:background="@drawable/kasrohtain_in"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tampil_hijaiyah6"
+        android:src="@drawable/pop_kasroh_tain_in"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/help"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/help"/>
+
+    <ImageView android:background="#f30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        />
+    <ImageButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/back"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/back"/>
+
+
+</RelativeLayout>
